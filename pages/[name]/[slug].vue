@@ -3,7 +3,6 @@
     <div
       class="relative mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8 lg:pt-16"
     >
-    <ClientOnly fallback-tag="span" fallback="Loading ...">
       <section>
         <div class="relative mx-auto max-w-screen-xl px-4 py-8">
           <div>
@@ -91,7 +90,6 @@
           </div>
         </div>
       </section>
-    </ClientOnly>
     </div>
   </div>
 </template>
