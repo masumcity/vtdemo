@@ -1,0 +1,98 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "name": "Home",
+      "url": "/",
+      "cid": "",
+      "child": false,
+      "enable": true,
+      "top":true,
+      "bottom": true
+    },
+    {
+      "id": 2,
+      "name": "Company",
+      "url": "/company",
+      "cid": "",
+      "child": false,
+      "enable": true,
+      "top":true,
+      "bottom": true
+    },
+    {
+      "id": 3,
+      "name": "Products",
+      "url": "/product",
+      "cid": "mega-menu-full-cta-image-button",
+      "child": true,
+      "enable": true,
+      "top":true,
+      "bottom": true
+    },
+    {
+      "id": 5,
+      "name": "Resource",
+      "url": "/resource",
+      "cid": "",
+      "child": false,
+      "enable": true,
+      "top":true,
+      "bottom": true
+    },
+    {
+      "id": 6,
+      "name": "Contact",
+      "url": "/contact",
+      "cid": "",
+      "child": false,
+      "enable": true,
+      "top":true,
+      "bottom": true
+    }
+  ],
+  "submenus": [
+    {
+      "id": 1,
+      "name": "Casing",
+      "url": "/product/casing",
+      "enable": true,
+      "part": 1
+    },
+    {
+      "id": 2,
+      "name": "Monitor",
+      "url": "/product/monitor",
+      "enable": true,
+      "part": 1
+    },
+    {
+      "id": 3,
+      "name": "Power Supply",
+      "url": "/product/powersupply",
+      "enable": true,
+      "part": 1
+    },
+    {
+      "id": 4,
+      "name": "Cooling",
+      "url": "/product/cooling",
+      "enable": true,
+      "part": 1
+    },
+    {
+      "id": 5,
+      "name": "Keyboard",
+      "url": "/product/keyboard",
+      "enable": true,
+      "part": 2
+    },
+    {
+      "id": 6,
+      "name": "Mouse",
+      "url": "/product/mouse",
+      "enable": true,
+      "part": 2
+    }
+  ]
+}
